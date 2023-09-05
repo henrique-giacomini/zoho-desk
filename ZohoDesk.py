@@ -4,8 +4,8 @@ from typing import Dict
 
 class ZohoDesk:
     """"""
-    client_id: str = '1000.T6LDKB524O263IW5YWAH741EGWJ0OV',
-    client_secret: str = 'f4271109effcb2e4ca78d227ccf854e881089e8270'
+    client_id: str = '1000.T6TDKB524O263IW5YWHH741EGWJ0OV',
+    client_secret: str = 'f4271109effcb2e4da78d227ccf874e881089e8280'
 
     def get_Zoho_Oauthtoken(
         client_id: str = client_id,
